@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"INp",
+				"InputBranchList"
+			],
+			[
+				"li",
+				"list_of_categories"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"de",
+				"department"
+			],
+			[
+				"Run",
+				"RunBranchAllotmentAlgorithmAdmin"
+			],
+			[
+				"BC",
+				"BCAdminAdmin"
+			],
+			[
+				"M",
+				"ModelAdmin"
+			],
+			[
+				"rol",
+				"roll_validate"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"DI",
+				"div"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"b2",
+				"b2FixtureDef"
+			],
+			[
+				"sha",
+				"shaperight"
+			],
+			[
+				"cs",
+				"cs251_base_code"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/django1/urls.py",
+			"settings":
+			{
+				"buffer_size": 738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/branchchange/models.py",
+			"settings":
+			{
+				"buffer_size": 9940,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/branchchange/admin.py",
+			"settings":
+			{
+				"buffer_size": 788,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/branchchange/views.py",
+			"settings":
+			{
+				"buffer_size": 3609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/branchchange/forms.py",
+			"settings":
+			{
+				"buffer_size": 2771,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/django1"
+	],
+	"file_history":
+	[
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/branchchangeform.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/adminpage.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/forms.py",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/views.py",
+		"/users/ug14/siddhant/Desktop/lab11_group30_final/django/output.csv",
+		"/users/ug14/siddhant/Desktop/lab11_group30_final/django/stats.csv",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/homepage.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/models.py",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/admin.py",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/django1/urls.py",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/lib/python2.7/site-packages/django/contrib/admin/templates/admin/change_list.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/register.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/adminlogin.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/userlogin.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/home.html",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/branchchange/templates/styles.css",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/django1/settings.py",
+		"/users/ug14/siddhant/Desktop/Branch_Change/django/src/django1/views.py",
+		"/users/ug14/siddhant/Desktop/Rube-Goldberg/cs251_base_code/src/dominos.cpp",
+		"/users/ug14/siddhant/Desktop/cs251_base_code/src/dominos.cpp",
+		"/users/ug14/siddhant/Desktop/cs251_base_code/references.bib",
+		"/users/ug14/siddhant/Desktop/cs251_base_code/main.tex",
+		"/users/ug14/siddhant/Desktop/Rube-Goldberg/cs251_base_code/2",
+		"/users/ug14/siddhant/Desktop/dominos.cpp",
+		"/users/ug14/siddhant/Desktop/ans3.out",
+		"/users/ug14/siddhant/Desktop/cs251_base_code/run.sh",
+		"/users/ug14/siddhant/Desktop/14D070027_10.cpp",
+		"/users/ug14/siddhant/Downloads/140040005_10.cpp",
+		"/users/ug14/siddhant/Desktop/1.in",
+		"/users/ug14/siddhant/Desktop/4.out",
+		"/users/ug14/siddhant/Desktop/siddhant.txt",
+		"/users/ug14/siddhant/Desktop/3.out"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"from django.shortcuts import render\n\nfrom .forms import InitialFormSignup\n# Create your views here.\ndef homeview(request):\n	topic= \"BRANCH CHANGE\"\n	if request.method == \"POST\":\n		print  request.POST\n	form=InitialFormSignup(request.POST or None)\n\n	context ={\n		\"xyz\": topic,\n		\"form\": form,\n	}\n	return render(request, \"homepage.html\",context)\n\ndef userloginview(request):\n	topic= \"USER LOGIN\" \n	if request.method == \"POST\":\n		print  request.POST\n	form=InitialFormSignup(request.POST or None)\n\n	context ={\n		\"xyz\": topic,\n		\"form\": form,\n	}\n	return render(request, \"userlogin.html\",context)\n\ndef adminloginview(request):\n	topic= \"USER LOGIN\" \n	if request.method == \"POST\":\n		print  request.POST\n	form=InitialFormSignup(request.POST or None)\n\n	context ={\n		\"xyz\": topic,\n		\"form\": form,\n	}\n	return render(request, \"userlogin.html\",context)",
+			"DOMIN",
+			"cout",
+			"001f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/django1/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/branchchange/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2043,
+								2043
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/branchchange/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/branchchange/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2849,
+								2849
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/branchchange/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
